@@ -88,57 +88,58 @@ Copyright: Gabor Szabo
 73. numpy
 74. Pandas
 75. Matplotlib
-Seaborn (3)
-Jupyter notebooks (27)
-Testing (12)
-Testing with unittest (6)
-Testing with PyTest (54)
-Pytest assert (13)
-PyTest Fixtures (28)
-Pytest Mocking (33)
-Pytest command line options (21)
-Pytest - other (24)
-Tox (1)
-Selenium (3)
-Playwright (3)
-Advancted functions (18)
-Variable number of function arguments (11)
-Python Packages (22)
-Distribution of Python code (3)
-Distribute Python application as an exe (5)
-Ctypes (3)
-Advanced OOP (55)
-2to3 (9)
-Design Patterns (8)
-Parallel (7)
-Threads (16)
-Forking (9)
-Asynchronous programming with AsyncIO (20)
-Async more (6)
-Asynchronus programming with Twisted (5)
-Multiprocess (12)
-Multitasking (6)
-Improving Performance - Optimizing code (26)
-GUI with Python/Tk (58)
-Python Pitfalls (5)
-Linters (4)
-Python .NET (5)
-Python and Java (2)
-Jython - Python running on the JVM (5)
-Signals (9)
-Data Science (1)
-PIL - Pillow (21)
-FAQ (5)
-Appendix (16)
-Algorithm (6)
-Scapy (16)
-Turtle (16)
-Refactor (3)
-Machine Learning (11)
-Machine Learning 2 (30)
-Octave (7)
-OpenCV (45)
-Overview of Python syntax (23)
-Serialization (Marshalling) (6)
-MLOps (26)
-Other slides (93)
+76. Seaborn
+77. Jupyter notebooks
+78. Testing
+79. Testing with unittest
+80. Testing with PyTest
+81. Pytest assert
+82. PyTest Fixtures
+83. Pytest Mocking
+84. Pytest command line options
+85. Pytest - other
+86. Tox
+87. Selenium
+88. Playwright
+89. Advancted functions
+90. Variable number of function arguments
+91. Python Packages
+92. Distribution of Python code
+93. Distribute Python application as an exe
+94. Ctypes
+95. Advanced OOP
+96. 2to3
+97. Design Patterns
+98. Parallel
+99. Threads
+100. Forking
+101. Asynchronous programming with AsyncIO
+102. Async more
+103. Asynchronus programming with Twisted
+104. Multiprocess
+105. Multitasking
+106. Improving Performance - Optimizing code
+107. GUI with Python/Tk
+108. Python Pitfalls
+109. Linters
+110. Python .NET
+111. Python and Java
+112. Jython - Python running on the JVM
+113. Signals
+114. Data Science
+115. PIL - Pillow
+116. FAQ
+117. Appendix
+118. Algorithm
+119. Scapy
+120. Turtle
+121. Refactor
+122. Machine Learning
+123. Machine Learning 2
+124. Octave
+125. OpenCV
+126. Overview of Python syntax
+127. Serialization (Marshalling)
+128. MLOps
+129. Other slides
+130. 
