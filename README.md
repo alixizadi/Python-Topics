@@ -1,15 +1,17 @@
 # Python Topics to be covered:
 
-Author: Gabor Szabo
-Copyright: Gabor Szabo
-2012 - 2023
+[Author: Gabor Szabo
 
-Chapters
-First steps (38)
-Second steps (52)
-Numbers (15)
-Comparison and Boolean (23)
-Strings (34)
+Copyright: Gabor Szabo
+
+2012 - 2023]
+
+## Chapters
+- First steps (38)
+- Second steps (52)
+- Numbers (15)
+- Comparison and Boolean (23)
+- Strings (34)
 Loops (34)
 Formatted strings (17)
 Lists (73)
