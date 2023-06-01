@@ -22,71 +22,72 @@ Copyright: Gabor Szabo
 
 
 -------
-Formatted strings (17)
-Lists (73)
-Tuples (7)
-Files (37)
-Dictionary (hash) (59)
-Sets (17)
-Code Reuse (10)
-Functions (subroutines) (56)
-Modules (34)
-Regular Expressions (28)
-Regular Expressions - part 2 (14)
-Regular Expressions - part 3 (47)
-PyCharm (10)
-Visual Studio Code (4)
-Python standard modules (standard packages) (1)
-math (1)
-sys (3)
-os (15)
-Pathlib (9)
-shutil (1)
-time (3)
-datetime (14)
-subprocess (9)
-Command line arguments with argparse (17)
-JSON (14)
-YAML (6)
-Exception handling (26)
-Classes - OOP - Object Oriented Programming (37)
-PyPi - Python Package Index (8)
-Database (3)
-SQLite Database Access (9)
-MySQL (18)
-PostgreSQL (9)
-SQLAlchemy (36)
-MongoDB (15)
-Redis (6)
-Web client - web scraping (25)
-Python Web server (5)
-Web development with Python Flask (72)
-Web development with Python FastAPI (32)
-Networking (7)
-Interactive shell (5)
-Testing Demo (22)
-GitHub (26)
-Types in Python (8)
-Testing Intro (6)
-Functional programming in Python (68)
-Iterators - with and without Itertools (37)
-Generators and Generator Expressions (27)
-Logging (8)
-Closures (13)
-Decorators (37)
-Context managers (with statement) (21)
-Advanced lists (8)
-Advanced Exception handling (15)
-Warnings (1)
-CSV (13)
-Excel (11)
-XML (6)
-SciPy - for Scientific Computing in Python (2)
-Python and Biology (10)
-Chemistry (6)
-numpy (38)
-Pandas (37)
-Matplotlib (8)
+
+11. Formatted strings
+12. Lists
+13. Tuples
+14. Files
+15. Dictionary (hash)
+16. Sets
+17. Code Reuse
+18. Functions (subroutines)
+19. Modules
+20. Regular Expressions
+21. Regular Expressions - part 2
+22. Regular Expressions - part 3
+23. PyCharm
+24. Visual Studio Code
+25. Python standard modules (standard packages)
+26. math
+27. sys
+28. os
+29. Pathlib
+30. shutil
+31. time
+32. datetime
+33. subprocess
+34. Command line arguments with argparse
+35. JSON
+36. YAML
+37. Exception handling
+38. Classes - OOP - Object Oriented Programming
+39. PyPi - Python Package Index
+40. Database
+41. SQLite Database Access
+42. MySQL
+43. PostgreSQL
+44. SQLAlchemy
+45. MongoDB
+46. Redis
+47. Web client - web scraping
+48. Python Web server
+49. Web development with Python Flask
+50. Web development with Python FastAPI
+51. Networking
+52. Interactive shell
+53. Testing Demo
+54. Hub
+55. Types in Python
+56. Testing Intro
+57. Functional programming in Python
+58. Iterators - with and without Itertools
+59. Generators and Generator Expressions
+60. Logging
+61. Closures
+62. Decorators
+63. Context managers (with statement)
+64. Advanced lists
+65. Advanced Exception handling
+66. Warnings
+67. CSV
+68. Excel
+69. XML
+70. SciPy - for Scientific Computing in Python
+71. Python and Biology
+72. Chemistry
+73. numpy
+74. Pandas
+75. Matplotlib
 Seaborn (3)
 Jupyter notebooks (27)
 Testing (12)
