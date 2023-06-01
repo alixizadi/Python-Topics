@@ -7,12 +7,21 @@ Copyright: Gabor Szabo
 2012 - 2023]
 
 ## Chapters
-- First steps (38)
-- Second steps (52)
-- Numbers (15)
-- Comparison and Boolean (23)
-- Strings (34)
-Loops (34)
+0. Introduction
+1. First Steps
+2. COnditionals
+3. Command Line Arguments
+4. Compilation vs Interpretation
+5. Numbers
+6. Random
+7. Boolean
+8. Strings
+9. Loops
+10. (to be continued)
+
+
+
+-------
 Formatted strings (17)
 Lists (73)
 Tuples (7)
