@@ -18,14 +18,14 @@ Copyright: Gabor Szabo
 8. Strings
 9. Loops
 10. (to be continued)
-
+11. Formatted strings
+12. Lists
+13. Tuples
 
 
 -------
 
-11. Formatted strings
-12. Lists
-13. Tuples
+
 14. Files
 15. Dictionary (hash)
 16. Sets
