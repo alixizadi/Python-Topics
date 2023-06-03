@@ -1,0 +1,59 @@
+What is a dictionary
+When to use dictionaries
+Various dictionary examples
+Dictionary
+Create dictionary
+keys
+Loop over keys
+Loop over dictionary keys
+Loop using items
+values
+Not existing key
+Get key
+Does the key exist?
+Does the value exist?
+Delete key
+List of dictionaries
+Shared dictionary
+immutable collection: tuple as dictionary key
+immutable numbers: numbers as dictionary key
+Sort a dictionary
+Sort dictionary values
+Sort dictionary by value
+Sort dictionary keys by value (another example)
+Insertion Order is kept
+Change order of keys in dictionary - OrderedDict
+Set order of keys in dictionary - OrderedDict
+Setdefault
+Exercise: count characters
+Exercise: count words
+Exercise: count words from a file
+Exercise: Apache log
+Exercise: Combine lists again
+Exercise: counting DNA bases
+Exercise: Count Amino Acids
+Exercise: List of dictionaries
+Exercise: Dictionary of dictionaries
+Exercise: Age limit with dictionaries
+Exercise: Merge files with timestamps
+Solution: count characters
+Default Dict
+Solution: count characters with default dict
+Solution: count words (plain)
+Solution: count words (defaultdict)
+Solution: count words (Counter)
+Solution: count words in file
+Solution: Apache log
+Solution: Apache log using split
+Solution: Combine files
+Solution: Combine files-improved
+Solution: counting DNA bases
+Solution: Count Amino Acids
+Solution: List of dictionaries
+Solution: Dictionary of dictionaries
+Solution: Age limit with dictionaries
+Solution: Merge files with timestamps
+Do not change dictionary in loop
+Named tuple (sort of immutable dictionary)
+Create dictionary from List
+Sort Hungarian letters (lookup table)
