@@ -21,14 +21,13 @@ Copyright: Gabor Szabo
 11. Formatted strings
 12. Lists
 13. Tuples
-
+14. Files
+15. Dictionary (hash)
+16. Sets
 
 -------
 
 
-14. Files
-15. Dictionary (hash)
-16. Sets
 17. Code Reuse
 18. Functions (subroutines)
 19. Modules
