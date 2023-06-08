@@ -9,7 +9,7 @@ Copyright: Gabor Szabo
 ## Chapters
 0. Introduction
 1. First Steps
-2. COnditionals
+2. Conditionals
 3. Command Line Arguments
 4. Compilation vs Interpretation
 5. Numbers
@@ -17,19 +17,17 @@ Copyright: Gabor Szabo
 7. Boolean
 8. Strings
 9. Loops
-10. (to be continued)
-11. Formatted strings
-12. Lists
-13. Tuples
-14. Files
-15. Dictionary (hash)
-16. Sets
+10. Formatted strings
+11. Lists
+12. Tuples
+13. Files
+14. Dictionary (hash)
+15. Sets
+16. Functions (subroutines)
 
 -------
 
-
-17. Code Reuse
-18. Functions (subroutines)
+18. 
 19. Modules
 20. Regular Expressions
 21. Regular Expressions - part 2
