@@ -27,22 +27,26 @@ Copyright: Gabor Szabo
 17. Modules
 18. Python standard modules (argparse, sys, os, pathlib, shutil, subprocess, math, time, datetime, calendar, random)
 19. JSON
-
-
+20. SQLite Database Access
+21. MySQL
+22. PostgreSQL
+23. SQLAlchemy
+24. MongoDB
+25. Redis
+26. Classes - OOP - Object Oriented Programming
+27. Advanced OOP
+28. Design Patterns
+29. Exception handling
+30. Advanced Exception handling
 --- 
 
 
-Exception handling
-Classes - OOP - Object Oriented Programming
-Design Patterns
+
 
 Database
-SQLite Database Access
-MySQL
-PostgreSQL
-SQLAlchemy
-MongoDB
-Redis
+
+
+
 Types in Python
 Testing
 
@@ -53,8 +57,7 @@ Logging
 Closures
 Decorators
 Context managers (with statement)
-Advanced lists
-Advanced Exception handling
+
 Warnings
 
 Asynchronous
@@ -113,7 +116,6 @@ Python Packages
 Distribution of Python code
 Distribute Python application as an exe
 Ctypes
-Advanced OOP
 2to3
 
 

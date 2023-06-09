@@ -19,6 +19,13 @@
 - [x] Functions (subroutines)
 - [x] Modules
 
+
+**Classes - OOP - Object Oriented Programming**
+
+- [ ] Classes - OOP - Object Oriented Programming
+- [ ] Design Patterns
+- [ ] Advanced OOP
+
 **Python Standard Modules:**
 - [x] Python standard modules (argparse, sys, os, pathlib, shutil, subprocess, math, time, datetime, calendar, random)
 - [x] JSON
@@ -26,7 +33,7 @@
 **Database:**
 - [x] SQLite Database Access
 - [x] MySQL
-- [ ] PostgreSQL
+- [x] PostgreSQL
 - [ ] SQLAlchemy
 - [ ] MongoDB
 - [ ] Redis
@@ -101,7 +108,6 @@
 - [ ] Distribution of Python code
 - [ ] Distribute Python application as an exe
 - [ ] Ctypes
-- [ ] Advanced OOP
 - [ ] 2to3
 - [ ] GUI with Python/Tk
 - [ ] Python Pitfalls
