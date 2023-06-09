@@ -24,16 +24,9 @@ Copyright: Gabor Szabo
 14. Dictionary (hash)
 15. Sets
 16. Functions (subroutines)
+17. Modules
 
 -------
-
-18. 
-19. Modules
-20. Regular Expressions
-21. Regular Expressions - part 2
-22. Regular Expressions - part 3
-23. PyCharm
-24. Visual Studio Code
 25. Python standard modules (standard packages)
 26. math
 27. sys
@@ -43,12 +36,9 @@ Copyright: Gabor Szabo
 31. time
 32. datetime
 33. subprocess
-34. Command line arguments with argparse
 35. JSON
-36. YAML
 37. Exception handling
 38. Classes - OOP - Object Oriented Programming
-39. PyPi - Python Package Index
 40. Database
 41. SQLite Database Access
 42. MySQL
@@ -56,14 +46,7 @@ Copyright: Gabor Szabo
 44. SQLAlchemy
 45. MongoDB
 46. Redis
-47. Web client - web scraping
-48. Python Web server
-49. Web development with Python Flask
-50. Web development with Python FastAPI
-51. Networking
-52. Interactive shell
-53. Testing Demo
-54. Hub
+
 55. Types in Python
 56. Testing Intro
 57. Functional programming in Python
@@ -86,6 +69,27 @@ Copyright: Gabor Szabo
 74. Pandas
 75. Matplotlib
 76. Seaborn
+
+
+
+
+20. Regular Expressions
+21. Regular Expressions - part 2
+22. Regular Expressions - part 3
+23. PyCharm
+24. Visual Studio Code
+34. Command line arguments with argparse
+36. YAML
+39. PyPi - Python Package Index
+47. Web client - web scraping
+48. Python Web server
+49. Web development with Python Flask
+50. Web development with Python FastAPI
+51. Networking
+52. Interactive shell
+53. Testing Demo
+54. Hub
+
 77. Jupyter notebooks
 78. Testing
 79. Testing with unittest
