@@ -1,10 +1,8 @@
 # Python Topics to be covered:
 
-[Author: Gabor Szabo
-
-Copyright: Gabor Szabo
-
-2012 - 2023]
+> [From **Gabor Szabo** lectures]
+>
+> Copyright: Gabor Szabo 2012 - 2023
 
 ## Chapters
 0. Introduction
