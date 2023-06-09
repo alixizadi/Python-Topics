@@ -25,17 +25,9 @@ Copyright: Gabor Szabo
 15. Sets
 16. Functions (subroutines)
 17. Modules
-
+18. Python standard modules (argparse, sys, os, pathlib, shutil, subprocess, math, time, datetime, calendar, random)
+19. JSON
 -------
-25. Python standard modules (standard packages)
-26. math
-27. sys
-28. os
-29. Pathlib
-30. shutil
-31. time
-32. datetime
-33. subprocess
 35. JSON
 37. Exception handling
 38. Classes - OOP - Object Oriented Programming
@@ -47,11 +39,13 @@ Copyright: Gabor Szabo
 45. MongoDB
 46. Redis
 
+
 55. Types in Python
 56. Testing Intro
 57. Functional programming in Python
 58. Iterators - with and without Itertools
 59. Generators and Generator Expressions
+
 60. Logging
 61. Closures
 62. Decorators
@@ -59,6 +53,8 @@ Copyright: Gabor Szabo
 64. Advanced lists
 65. Advanced Exception handling
 66. Warnings
+
+
 67. CSV
 68. Excel
 69. XML
