@@ -27,116 +27,118 @@ Copyright: Gabor Szabo
 17. Modules
 18. Python standard modules (argparse, sys, os, pathlib, shutil, subprocess, math, time, datetime, calendar, random)
 19. JSON
+
+
+--- 
+
+
+Exception handling
+Classes - OOP - Object Oriented Programming
+Design Patterns
+
+Database
+SQLite Database Access
+MySQL
+PostgreSQL
+SQLAlchemy
+MongoDB
+Redis
+Types in Python
+Testing
+
+Functional programming in Python
+Iterators - with and without Itertools
+Generators and Generator Expressions
+Logging
+Closures
+Decorators
+Context managers (with statement)
+Advanced lists
+Advanced Exception handling
+Warnings
+
+Asynchronous
+Parallel
+Threads
+Forking
+Asynchronous programming with AsyncIO
+Async more
+Asynchronus programming with Twisted
+Multiprocess
+Multitasking
+Improving Performance - Optimizing code
+
+
+SciPy - for Scientific Computing in Python
+Python and Biology
+Chemistry
+Excel
+CSV
+numpy
+Pandas
+Matplotlib
+Seaborn
+
 -------
-35. JSON
-37. Exception handling
-38. Classes - OOP - Object Oriented Programming
-40. Database
-41. SQLite Database Access
-42. MySQL
-43. PostgreSQL
-44. SQLAlchemy
-45. MongoDB
-46. Redis
-
-
-55. Types in Python
-56. Testing Intro
-57. Functional programming in Python
-58. Iterators - with and without Itertools
-59. Generators and Generator Expressions
-
-60. Logging
-61. Closures
-62. Decorators
-63. Context managers (with statement)
-64. Advanced lists
-65. Advanced Exception handling
-66. Warnings
-
-
-67. CSV
-68. Excel
-69. XML
-70. SciPy - for Scientific Computing in Python
-71. Python and Biology
-72. Chemistry
-73. numpy
-74. Pandas
-75. Matplotlib
-76. Seaborn
 
 
 
+Regular Expressions
+Regular Expressions - part 2
+Regular Expressions - part 3
 
-20. Regular Expressions
-21. Regular Expressions - part 2
-22. Regular Expressions - part 3
-23. PyCharm
-24. Visual Studio Code
-34. Command line arguments with argparse
-36. YAML
-39. PyPi - Python Package Index
-47. Web client - web scraping
-48. Python Web server
-49. Web development with Python Flask
-50. Web development with Python FastAPI
-51. Networking
-52. Interactive shell
-53. Testing Demo
-54. Hub
 
-77. Jupyter notebooks
-78. Testing
-79. Testing with unittest
-80. Testing with PyTest
-81. Pytest assert
-82. PyTest Fixtures
-83. Pytest Mocking
-84. Pytest command line options
-85. Pytest - other
-86. Tox
-87. Selenium
-88. Playwright
-89. Advancted functions
-90. Variable number of function arguments
-91. Python Packages
-92. Distribution of Python code
-93. Distribute Python application as an exe
-94. Ctypes
-95. Advanced OOP
-96. 2to3
-97. Design Patterns
-98. Parallel
-99. Threads
-100. Forking
-101. Asynchronous programming with AsyncIO
-102. Async more
-103. Asynchronus programming with Twisted
-104. Multiprocess
-105. Multitasking
-106. Improving Performance - Optimizing code
-107. GUI with Python/Tk
-108. Python Pitfalls
-109. Linters
-110. Python .NET
-111. Python and Java
-112. Jython - Python running on the JVM
-113. Signals
-114. Data Science
-115. PIL - Pillow
-116. FAQ
-117. Appendix
-118. Algorithm
-119. Scapy
-120. Turtle
-121. Refactor
-122. Machine Learning
-123. Machine Learning 2
-124. Octave
-125. OpenCV
-126. Overview of Python syntax
-127. Serialization (Marshalling)
-128. MLOps
-129. Other slides
-130. 
+PyCharm
+Visual Studio Code
+Command line arguments with argparse
+YAML
+PyPi - Python Package Index
+Web client - web scraping
+Python Web server
+Web development with Python Flask
+Web development with Python FastAPI
+Networking
+Interactive shell
+Testing Demo
+Hub
+
+Jupyter notebooks
+
+Tox
+Selenium
+Playwright
+Advancted functions
+Variable number of function arguments
+Python Packages
+Distribution of Python code
+Distribute Python application as an exe
+Ctypes
+Advanced OOP
+2to3
+
+
+
+GUI with Python/Tk
+Python Pitfalls
+Linters
+Python .NET
+Python and Java
+Jython - Python running on the JVM
+Signals
+Data Science
+PIL - Pillow
+FAQ
+Appendix
+Algorithm
+Scapy
+Turtle
+Refactor
+Machine Learning
+Machine Learning 2
+Octave
+OpenCV
+Overview of Python syntax
+Serialization (Marshalling)
+MLOps
+Other slides
+
