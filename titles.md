@@ -24,8 +24,8 @@
 - [x] JSON
 
 **Database:**
-- [ ] SQLite Database Access
-- [ ] MySQL
+- [x] SQLite Database Access
+- [x] MySQL
 - [ ] PostgreSQL
 - [ ] SQLAlchemy
 - [ ] MongoDB
