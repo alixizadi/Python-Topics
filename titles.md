@@ -1,4 +1,4 @@
-
+# Part 1: Basics
 **Python Basics:**
 - [x] Introduction
 - [x] First Steps
@@ -19,13 +19,6 @@
 - [x] Functions (subroutines)
 - [x] Modules
 
-
-**Classes - OOP - Object Oriented Programming**
-
-- [ ] Classes - OOP - Object Oriented Programming
-- [ ] Design Patterns
-- [ ] Advanced OOP
-
 **Python Standard Modules:**
 - [x] Python standard modules (argparse, sys, os, pathlib, shutil, subprocess, math, time, datetime, calendar, random)
 - [x] JSON
@@ -37,6 +30,44 @@
 - [ ] SQLAlchemy
 - [ ] MongoDB
 - [ ] Redis
+
+**Classes - OOP - Object Oriented Programming**
+
+- [ ] Classes - OOP - Object Oriented Programming
+- [ ] Advanced OOP
+- [ ] Design Patterns
+
+# Part II: Advanced
+
+- [ ] Generators
+- [ ] List Comprehensions
+- [ ] Lambda functions
+- [ ] Multiple Function Arguments
+- [ ] Regular Expressions
+- [ ] Exception Handling
+- [ ] Sets
+- [ ] Serialization
+- [ ] Partial functions
+- [ ] Code Introspection
+- [ ] Closures
+- [ ] Decorators
+- [ ] Map, Filter, Reduce
+
+# Part III: Data Science Libs
+- [ ] Numpy Arrays
+- [ ] Pandas Basics
+- [ ] Matplotlib
+- [ ] Seaborn
+- [ ] (to be added)
+
+# Part IV: Machine Learning
+- [ ] (to be added)
+
+# Part V: Web Development
+
+- [ ] (to be added)
+
+# Part VI: Misc
 
 **Types and Testing:**
 - [ ] Types in Python

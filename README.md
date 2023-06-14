@@ -1,9 +1,12 @@
 # Python Topics to be covered:
 
-> [From **Gabor Szabo** lectures]
+Sources: 
+> [**Gabor Szabo** lectures]
 >
-> Copyright: Gabor Szabo 2012 - 2023
+> <a href='LearnPython.org'>LearnPython.org</a>
+> 
 
+# Part I: Basics
 ## Chapters
 0. Introduction
 1. First Steps
@@ -36,12 +39,16 @@
 28. Design Patterns
 29. Exception handling
 30. Advanced Exception handling
---- 
 
+# Part II: Advanced
 
+# Part III: Data Science Libs
 
+# Part IV: Machine Learning
 
-Database
+# Part V: Web Development
+
+# Part VI: MISC
 
 
 
