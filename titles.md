@@ -33,9 +33,8 @@
 
 **Classes - OOP - Object Oriented Programming**
 
-- [ ] Classes - OOP - Object Oriented Programming
-- [ ] Advanced OOP
-- [ ] Design Patterns
+- [x] Classes - OOP - Object Oriented Programming
+- [x] Advanced OOP
 
 # Part II: Advanced
 
@@ -52,13 +51,17 @@
 - [ ] Closures
 - [ ] Decorators
 - [ ] Map, Filter, Reduce
+- [ ] Design Patterns
 
 # Part III: Data Science Libs
 - [ ] Numpy Arrays
 - [ ] Pandas Basics
 - [ ] Matplotlib
 - [ ] Seaborn
-- [ ] (to be added)
+- [ ] TensorFlow
+- [ ] PyTorch
+- [ ] statsmodels
+- [ ] scikit-learn
 
 # Part IV: Machine Learning
 - [ ] (to be added)

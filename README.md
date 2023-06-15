@@ -35,12 +35,14 @@ Sources:
 24. MongoDB
 25. Redis
 26. Classes - OOP - Object Oriented Programming
+
+
+# Part II: Advanced
+
 27. Advanced OOP
 28. Design Patterns
 29. Exception handling
 30. Advanced Exception handling
-
-# Part II: Advanced
 
 # Part III: Data Science Libs
 
