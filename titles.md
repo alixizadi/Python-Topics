@@ -38,7 +38,7 @@
 
 # Part II: Advanced
 
-- [ ] Generators
+- [x] Generators
 - [ ] List Comprehensions
 - [ ] Lambda functions
 - [ ] Multiple Function Arguments
