@@ -45,7 +45,7 @@ Sources:
 - [x] Lambda functions
 - [ ] Multiple Function Arguments
 - [x] Regular Expressions
-- [ ] Sets
+- [x] Sets
 - [ ] Serialization
 - [ ] Code Introspection
 - [ ] Closures
