@@ -46,13 +46,13 @@ Sources:
 - [ ] Multiple Function Arguments
 - [x] Regular Expressions
 - [x] Sets
-- [ ] Serialization
-- [ ] Code Introspection
-- [ ] Closures
+- [x] Serialization
+- [x] Closures
 - [ ] Decorators
 - [ ] Functional programming in Python
 - [ ] Context managers (with statement)
 - [ ] Asynchronous and Parallel Programming
+- [ ] Code Introspection
 
 # Part III: Data Science Libs
 - [ ] Numpy Arrays
