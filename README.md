@@ -43,7 +43,6 @@ Sources:
 - [x] Generators
 - [x] List Comprehensions
 - [x] Lambda functions
-- [ ] Multiple Function Arguments
 - [x] Regular Expressions
 - [x] Sets
 - [x] Serialization
