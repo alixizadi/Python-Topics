@@ -7,7 +7,7 @@
 
 
 ## **Month 1 — June**
-- [ ] Python Programming and Logic Building
+- [x] Python Programming and Logic Building
 - [x] Data Structure & Algorithms
 
 ## Month 2 — July
