@@ -69,5 +69,4 @@ Sources:
 - [ ] (to be added)
 
 # Part V: Web Development
-
 - [ ] (to be added)
