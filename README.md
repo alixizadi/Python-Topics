@@ -47,10 +47,10 @@ Sources:
 - [x] Sets
 - [x] Serialization
 - [x] Closures
-- [ ] Decorators
-- [ ] Functional programming in Python
+- [x] Decorators
 - [ ] Context managers (with statement)
 - [ ] Asynchronous and Parallel Programming
+- [ ] Functional programming in Python
 - [ ] Code Introspection
 
 # Part III: Data Science Libs
