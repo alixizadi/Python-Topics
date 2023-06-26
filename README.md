@@ -3,8 +3,6 @@
 Sources: 
 > [**Gabor Szabo** lectures]
 >
-> <a href='LearnPython.org'>LearnPython.org</a>
-> 
 # Part 1: Basics
 
 - [x] Introduction
