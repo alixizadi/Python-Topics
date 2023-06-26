@@ -46,22 +46,31 @@ Sources:
 - [x] Serialization
 - [x] Closures
 - [x] Decorators
-- [ ] Context managers (with statement)
-- [ ] Asynchronous and Parallel Programming
-- [ ] Functional programming in Python
+- [x] Context managers (with statement)
+- [x] Asynchronous and Parallel Programming
+- [x] Functional programming in Python
 - [ ] Code Introspection
 
 # Part III: Data Science Libs
-- [ ] Numpy Arrays
-- [ ] Pandas Basics
-- [ ] Matplotlib
-- [ ] Seaborn
-- [ ] TensorFlow
-- [ ] PyTorch
-- [ ] statsmodels
-- [ ] scikit-learn
-- [ ] SciPy
-- [ ] Excel
+
+- [ ] Data Science With Python Core Skills
+ <a href='https://realpython.com/learning-paths/data-science-python-core-skills/' target='_blank' >Source</a>
+
+- [ ] Data Collection & Storage
+<a href='https://realpython.com/learning-paths/data-collection-storage/' target='_blank'></a>
+
+- [ ] Data Visualization With Python
+<a href='https://realpython.com/learning-paths/data-visualization-python/' target='_blank'></a>
+
+- [ ] Math for Data Science
+<a href='https://realpython.com/learning-paths/math-data-science/' target='_blank'></a>
+
+- [ ] pandas for Data Science
+<a href='https://realpython.com/learning-paths/pandas-data-science/' target='_blank'></a>
+
+- [ ] Machine Learning With Python
+<a href='https://realpython.com/learning-paths/machine-learning-python/' target='_blank'></a>
+
 
 # Part IV: Machine Learning
 - [ ] (to be added)
