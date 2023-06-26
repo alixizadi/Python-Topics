@@ -57,19 +57,19 @@ Sources:
  <a href='https://realpython.com/learning-paths/data-science-python-core-skills/' target='_blank' >Source</a>
 
 - [ ] Data Collection & Storage
-<a href='https://realpython.com/learning-paths/data-collection-storage/' target='_blank'></a>
+<a href='https://realpython.com/learning-paths/data-collection-storage/' target='_blank'>Source</a>
 
 - [ ] Data Visualization With Python
-<a href='https://realpython.com/learning-paths/data-visualization-python/' target='_blank'></a>
+<a href='https://realpython.com/learning-paths/data-visualization-python/' target='_blank'>Source</a>
 
 - [ ] Math for Data Science
-<a href='https://realpython.com/learning-paths/math-data-science/' target='_blank'></a>
+<a href='https://realpython.com/learning-paths/math-data-science/' target='_blank'>Source</a>
 
 - [ ] pandas for Data Science
-<a href='https://realpython.com/learning-paths/pandas-data-science/' target='_blank'></a>
+<a href='https://realpython.com/learning-paths/pandas-data-science/' target='_blank'>Source</a>
 
 - [ ] Machine Learning With Python
-<a href='https://realpython.com/learning-paths/machine-learning-python/' target='_blank'></a>
+<a href='https://realpython.com/learning-paths/machine-learning-python/' target='_blank'>Source</a>
 
 
 # Part IV: Machine Learning
