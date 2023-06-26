@@ -51,7 +51,7 @@ Sources:
 - [x] Functional programming in Python
 - [ ] Code Introspection
 
-# Part III: Data Science Libs
+# Part III: Data Science
 
 - [ ] Data Science With Python Core Skills
  <a href='https://realpython.com/learning-paths/data-science-python-core-skills/' target='_blank' >Source</a>
