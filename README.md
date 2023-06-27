@@ -51,29 +51,77 @@ Sources:
 - [x] Functional programming in Python
 - [ ] Code Introspection
 
-# Part III: Data Science Libs
+# Part III: Data Science
 
-- [ ] Data Science With Python Core Skills
- <a href='https://realpython.com/learning-paths/data-science-python-core-skills/' target='_blank' >Source</a>
+###  Numpy
+- [ ] Vectors, Matrix
+- [ ] Operations on Matrix
+- [ ] Mean, Variance, and Standard Deviation
+- [ ] Reshaping Arrays
+- [ ] Transpose and Determinant of Matrix
+- [ ] Diagonal Operations, Trace
+- [ ] Add, Subtract, Multiply, Dot, and Cross Product.
 
-- [ ] Data Collection & Storage
-<a href='https://realpython.com/learning-paths/data-collection-storage/' target='_blank'>Source</a>
+### Pandas
+- [ ] Series and DataFrames
+- [ ] Slicing, Rows, and Columns
+- [ ] Operations on DataFrame
+- [ ] Different ways to create DataFrame
+- [ ] Read, Write Operations with CSV files
+- [ ] Handling Missing values, replace values, and Regular Expression
+- [ ] GroupBy and Concatenation
 
-- [ ] Data Visualization With Python
-<a href='https://realpython.com/learning-paths/data-visualization-python/' target='_blank'>Source</a>
+### Matplotlib
+- [ ] Graph Basics
+- [ ] Format Strings in Plots
+- [ ] Label Parameters, Legend
+- [ ] Bar Chart, Pie Chart, Histogram, Scatter Plot
 
-- [ ] Math for Data Science
-<a href='https://realpython.com/learning-paths/math-data-science/' target='_blank'>Source</a>
+##  Statistics
 
-- [ ] pandas for Data Science
-<a href='https://realpython.com/learning-paths/pandas-data-science/' target='_blank'>Source</a>
+### Descriptive Statistics
+- [ ] Measure of Frequency and Central Tendency
+- [ ] Measure of Dispersion
+- [ ] Probability Distribution
+- [ ] Gaussian Normal Distribution
+- [ ] Skewness and Kurtosis
+- [ ] Regression Analysis
+- [ ] Continuous and Discrete Functions
+- [ ] Goodness of Fit
+- [ ] Normality Test
+- [ ] ANOVA
+- [ ] Homoscedasticity
+- [ ] Linear and Non-Linear Relationship with Regression
 
-- [ ] Machine Learning With Python
-<a href='https://realpython.com/learning-paths/machine-learning-python/' target='_blank'>Source</a>
-
+### Inferential Statistics
+- [ ] t-Test
+- [ ] z-Test
+- [ ] Hypothesis Testing
+- [ ] Type I and Type II errors
+- [ ] t-Test and its types
+- [ ] One way ANOVA
+- [ ] Two way ANOVA
+- [ ] Chi-Square Test
+- [ ] Implementation of continuous and categorical data
 
 # Part IV: Machine Learning
-- [ ] (to be added)
+- [ ] Linear Regression
+- [ ] Logistic Regression
+- [ ] Decision Tree
+- [ ] Gradient Descent
+- [ ] Random Forest
+- [ ] Ridge and Lasso Regression
+- [ ] Naive Bayes
+- [ ] Support Vector Machine
+- [ ] KMeans Clustering
+
+## Other Concepts and Topics for ML
+- [ ] Measuring Accuracy
+- [ ] Bias-Variance Trade-off
+- [ ] Applying Regularization
+- [ ] Elastic Net Regression
+- [ ] Predictive Analytics
+- [ ] Exploratory Data Analysis
 
 # Part V: Web Development
 - [ ] (to be added)
