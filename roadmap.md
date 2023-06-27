@@ -1,27 +1,27 @@
 <h1 style='color:blue;'>Machine Learning Full-Stack Roadmap</h1>
 
 ## 1 | Python Programming and Logic Building
-- [ ] Python basics, Variables, Operators, Conditional Statements
-- [ ] List and Strings
-- [ ] While Loop, Nested Loops, Loop Else
-- [ ] For Loop, Break, and Continue statements
-- [ ] Functions, Return Statement, Recursion
-- [ ] Dictionary, Tuple, Set
-- [ ] File Handling, Exception Handling
-- [ ] Object-Oriented Programming
-- [ ] Modules and Packages
+- [x] Python basics, Variables, Operators, Conditional Statements
+- [x] List and Strings
+- [x] While Loop, Nested Loops, Loop Else
+- [x] For Loop, Break, and Continue statements
+- [x] Functions, Return Statement, Recursion
+- [x] Dictionary, Tuple, Set
+- [x] File Handling, Exception Handling
+- [x] Object-Oriented Programming
+- [x] Modules and Packages
 
 ## 2 | Data Structure & Algorithms
-- [ ] Types of Algorithm Analysis
-- [ ] Asymptotic Notation, Big-O, Omega, Theta
-- [ ] Stacks
-- [ ] Queues
-- [ ] Linked List
-- [ ] Trees
-- [ ] Graphs
-- [ ] Sorting
-- [ ] Searching
-- [ ] Hashing
+- [x] Types of Algorithm Analysis
+- [x] Asymptotic Notation, Big-O, Omega, Theta
+- [x] Stacks
+- [x] Queues
+- [x] Linked List
+- [x] Trees
+- [x] Graphs
+- [x] Sorting
+- [x] Searching
+- [x] Hashing
 
 
 ## 3 | Pandas Numpy Matplotlib 
@@ -266,59 +266,5 @@ A curated list of amazingly awesome Cybersecurity datasets.
  
 6️⃣[Awesome Robotics Datasets](https://github.com/mint-lab/awesome-robotics-datasets)
 Robotics Dataset Collections.
-
-
-
-# Detail Content
-
-
-### The‌ ‌Roadmap‌ ‌is‌ ‌divided‌ ‌into‌ ‌16 ‌Sections‌
-
-Duration:‌ ‌256‌ ‌Hours‌ of Learning ‌(8 ‌Months)‌ ‌and many more hours for practice and project building.
-
-1. [Python‌ ‌Programming‌ ‌and‌ ‌Logic‌ ‌Building‌](#1--python-programming-and-logic-building)
-2. [Data‌ ‌Structure‌ ‌&‌ ‌Algorithms‌](#2--data-structure--algorithms)
-3. [Pandas‌ ‌Numpy‌ ‌Matplotlib‌](#3--pandas-numpy-matplotlib)
-4. [Statistics‌](#4--statistics)
-5. [Machine‌ ‌Learning‌](#5--machine-learning)
-6. [ML Operations](#6--mlops)
-7. [Natural‌ ‌Language‌ ‌Processing‌](#7--natural-language-processing)
-8. [Computer‌ ‌Vision‌‌](#8--computer-vision)
-9. [Data‌ ‌Visualization‌ ‌with‌ ‌Tableau‌](#9--data-visualization-with-tableau)
-10. [Structure‌d ‌Query‌ ‌Language‌ ‌(SQL)‌](#10--structured-query-language-sql)
-11. [Data Engineering](#11--data-engineering)
-12. [Data System Design](#12--data-system-design)
-13. [Five‌ ‌Major‌ Capstone ‌Projects‌](#13--five-major-projects-and-git)
-14. [Interview Preparations](#14--interview-preperation)
-15. [Git & GitHub](#15--git--github)
-16. [Personal Branding and portfolio](#16--personal-profile--portfolio)
-
-
-### [Resources](#resources)
-
-- [Dataset Collection]()
-
-### Technology‌ ‌Stack‌
-
-- Python‌
-- Data‌ ‌Structures‌
-- NumPy‌
-- Pandas‌
-- Matplotlib‌
-- Seaborn‌
-- Scikit-Learn‌
-- Statsmodels‌
-- Natural‌ ‌Language‌ ‌Toolkit‌ ‌(‌ ‌NLTK‌ ‌)‌
-- PyTorch‌
-- OpenCV‌
-- Tableau‌
-- Structure‌ ‌Query‌ ‌Language‌ ‌(‌ ‌SQL‌ ‌)‌
-- PySpark‌
-- Azure‌ ‌Fundamentals‌
-- Azure‌ ‌Data‌ ‌Factory‌
-- Databricks‌
-- 5‌ ‌Major‌ ‌Projects‌
-- Git‌ ‌and‌ ‌GitHub‌ ‌
-
 
 
